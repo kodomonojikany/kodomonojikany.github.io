@@ -16,3 +16,7 @@
 .newPost-right {
     right: 15px;
 }
+
+#recent-posts>.recent-post-item {
+    position: relative;
+}
